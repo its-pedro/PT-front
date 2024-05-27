@@ -13,6 +13,7 @@ const config: Config = {
         'gray-background': '#EDEDED',
         'blue-header': '#09618e',
         'purple-button': '#2f244d',
+        'gray-disciplina': '#757575',
       },
     },
   },
